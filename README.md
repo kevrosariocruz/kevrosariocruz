@@ -3,7 +3,7 @@
 ## About me
 <a href="https://www.linkedin.com/in/kevin-rosario-cruz/" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)</a>
 <a href="mailto:kevrosariocruz@gmail.com">![Static Badge](https://img.shields.io/badge/kevrosariocruz%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
-...
+Work in progress 🚧
 ## My tech stack
 ### Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
