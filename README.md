@@ -11,6 +11,7 @@ Work in progress 🚧
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ### Frameworks and libraries
+![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
 ### Databases
