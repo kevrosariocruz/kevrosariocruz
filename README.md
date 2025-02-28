@@ -4,7 +4,6 @@
 Work in progress 🚧
 ## My tech stack
 ### Languages
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logoColor=black)
@@ -18,6 +17,9 @@ Work in progress 🚧
 ![Static Badge](https://img.shields.io/badge/Azure%20DevOps-008AD7?style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-5e438f?style=flat-square)
+### Currently learning
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ## How to reach me
 <a href="https://www.linkedin.com/in/kevin-rosario-cruz/" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)</a>
 <a href="mailto:kevrosariocruz@gmail.com">![Static Badge](https://img.shields.io/badge/E--mail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
